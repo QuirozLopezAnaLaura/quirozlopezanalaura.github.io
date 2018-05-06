@@ -1,0 +1,30 @@
+body{
+    background-color: #FCF4D9;
+    color: #462066
+    
+}
+p{
+   background-color: #BF9199;
+   color:  black;
+}
+h1{
+    background-color: #FD4563;
+    color:#990033;
+}
+h2{
+    color:#FF7A5A;
+    background-color: aqua;
+}
+ol{
+    background-color:#0093D1;
+    color: chocolate;
+}
+
+ul{
+    background-color:#F4D00C;
+    color:black;
+}
+d1{
+    background-color:#006495;
+    color:#6F3662;
+}
