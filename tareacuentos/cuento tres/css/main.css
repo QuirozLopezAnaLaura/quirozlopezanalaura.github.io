@@ -1,0 +1,15 @@
+h1{
+   border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+    resize: vertical;
+    overflow: auto;  
+    background: aqua;
+
+}
+p{
+    background: plum;
+    border-style: inset;
+  
+}
+
