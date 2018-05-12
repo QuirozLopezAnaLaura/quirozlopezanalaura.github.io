@@ -1,8 +1,21 @@
+body{
+    background-color: paleturquoise;
+}
 h1{
-    background-color: #990033;
-    color: beige;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+   text-align: center;
+   text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
 p{
-    background-color: #666633;
+    background-color: pink;
+    text-align: center;
     
+}
+h2{
+    border-style: solid;
+    border-bottom-color: purple;
+}
+strong{
+    color: maroon;
 }

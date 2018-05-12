@@ -1,17 +1,20 @@
 body{
-    background-color: #FCF4D9;
+    background-color: lawngreen;
     color: #462066;
     
 }
 p{
    margin: 20px 0 20px 5px;
     background-color: orchid;
+    text-align: justify;
 }
 h1{
     background-color: #462066;
     color:aqua;
 }
 h2{
+    border-style: solid;
+    border-bottom-style: dotted;
     color:brown;
     background-color: aqua;
 }
@@ -52,6 +55,7 @@ h1,h2,strong{
 .conflicto{
     
     background-color:palevioletred;
+    
  /*
     padding-top: 50px ;
     padding-bottom: 30px;
@@ -73,6 +77,13 @@ h1,h2,strong{
     border: solid green 10px;
     margin-top: 1000px;*/
    
+}
+h1{
+    border-style: solid;
+    border-bottom-color: purple;
+}
+strong{
+    color: maroon;
 }
 
 

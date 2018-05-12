@@ -1,15 +1,23 @@
-#fondo2{
-    background-image: url(../img/white-wood.jpg);
-    border:1px solid palevioletred;
-  }
-h2{
+
+h1{
 color: palevioletred;
 }
 body{
-    background-color: orchid;
+    background-color: black;
 }
 .header {
     background-color: #f1f1f1;
     padding: 20px;
     text-align: center;
+}
+h2{
+    background-color: aqua;
+    border-style: solid;
+    border-bottom-color:pink;
+}
+strong{
+    color: maroon;
+}
+em{
+    color: midnightblue;
 }

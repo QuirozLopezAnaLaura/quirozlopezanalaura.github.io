@@ -1,7 +1,23 @@
+body{
+    background-color: peru;
+}
 p{
     background-color: #2C6700;
     color:black;
+    text-align: justify;
 }
 h1{
+    text-decoration: underline overline wavy blue;
     color:#92CD00;
+    text-align: center;
+}
+h2{
+    border-style: solid;
+    border-bottom-color:pink;
+}
+strong{
+    color: maroon;
+}
+em{
+    color: midnightblue;
 }

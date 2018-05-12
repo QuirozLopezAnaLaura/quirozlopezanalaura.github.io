@@ -15,7 +15,9 @@ p{
   }
 
 h2{
-    background-color:#FF6EB0;
+    border-style: ridge;
+    border-width: 7px;
+    border-color: coral;
     color:#93228D;
     font: bold 20px monospace;
 }
@@ -31,4 +33,12 @@ h2{
     border: 3px solid purple;
     padding: 60px;
   
+}
+
+h1{
+    border-style: solid;
+    border-bottom-color:maroon;
+}
+strong{
+    color: maroon;
 }

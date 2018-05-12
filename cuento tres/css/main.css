@@ -1,15 +1,20 @@
 body{
-    background-color: #FCF4D9;
+    background-color: yellowgreen;
     color: #462066
     
 }
 p{
    background-color: #BF9199;
    color:  black;
+   text-align: justify;
 }
 h1{
+    border: 2px solid red;
+    padding: 10px;
+    border-top-right-radius: 25px;
     background-color: #FD4563;
     color:#990033;
+    text-align: center;
 }
 h2{
     color:#FF7A5A;
